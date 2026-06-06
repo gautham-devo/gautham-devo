@@ -53,37 +53,6 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)# 💻 Tech Stack:
 
-### Languages
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge=typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Frameworks & Runtime
-![Next JS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node JS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### Automation & Development
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6B00?style=flat-square)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
----
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=gautham-devo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)

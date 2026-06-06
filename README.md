@@ -30,10 +30,17 @@
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
-### Frameworks & Runtime
+### Frameworks & Libraries
+
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Mantine](https://img.shields.io/badge/mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
+
+### Runtime & Backend
+
 ![Node JS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 

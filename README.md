@@ -3,75 +3,57 @@
 ### 😄 Me Myself Dev</>
 
 🎓 I'm currently pursuing my B.Tech degree.  
-💻 Passionate about Full-Stack Development and Software Engineering.  
-🚀 Interested in Web Development, AI, and Open Source.  
+💻 Passionate about Software Development & Automation.  
+🚀 Building Web Apps, Mobile Apps, and Business Automation Solutions.  
 🤝 I enjoy collaborating on innovative and impactful projects.
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack:
 
-![](https://github-readme-stats.vercel.app/api?username=gautham-devo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gautham-devo&theme=tokyonight&hide_border=true)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-devo&theme=tokyonight&hide_border=true&layout=compact)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6B00?style=flat-square)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=gautham-devo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gautham-devo&theme=dark&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=gautham-devo&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-[![Gautham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gautham-devo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-trophy.vercel.app/?username=gautham-devo&theme=darkhub&no-frame=true&no-bg=true)
 
 ---
 
-### 💡 Quote of the Day
+# 🔝 Top Contributed Repo
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-⭐ Feel free to check out my repositories and connect with me!
+![](https://github-contributor-stats.vercel.app/api?username=gautham-devo&limit=5&theme=dark&combine_all_yearly_contributions=true)
